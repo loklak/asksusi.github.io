@@ -35,8 +35,8 @@ Our chat channel is to be found on Gitter: https://gitter.im/fossasia/susi_webch
 
 ### Components
 * CSS: Styling web pages, html files
-* Javascript: Primary programing language
-* ReactJS: Javascript library for building User Interfaces
+* JavaScript: Primary programming language
+* ReactJS: JavaScript library for building User Interfaces
 * Redux: Managing global state
 * Material-UI: UI library for design system
 * styled-components: CSS-in-JS library
@@ -70,7 +70,7 @@ cd susi.ai
 
 ## Installation with docker
 ### Steps
-* `git clone <repository-url>`, where `<respository-url>` is link to the forked repository
+* `git clone <repository-url>`, where `<repository-url>` is link to the forked repository
 * `cd susi.ai`
 ```sh
 git clone https://github.com/USERNAME/susi.ai.git
