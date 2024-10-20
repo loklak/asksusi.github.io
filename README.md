@@ -35,7 +35,7 @@ Our chat channel is to be found on Gitter: https://gitter.im/fossasia/susi_webch
 
 ### Components
 * CSS: Styling web pages, html files
-* Javascript: Primary programing language
+* Javascript: Primary programming language
 * ReactJS: Javascript library for building User Interfaces
 * Redux: Managing global state
 * Material-UI: UI library for design system
